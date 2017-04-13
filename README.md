@@ -23,5 +23,4 @@ I want to learn more Data Vis languages and python.
 * monsters and men
 * naked how we come - iron and wine
 ## Favorite Meme
-Chihuaha fell into the sauce pot meme
 ![alt text](https://pics.onsizzle.com/rain-drop-drop-top-chihuahua-fell-into-the-sauce-pot-11804716.png "Logo Title Text 1")
