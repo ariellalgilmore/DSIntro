@@ -18,6 +18,9 @@ I know C++, Processing, SQL, and Java
 ### Languages/data insight you want to learn
 I want to learn more Data Vis languages and python. 
 ## Favorite Songs
-*Dog Days are Over, any mumford and Sons song and monster and men
+* Dog Days are Over
+* any mumford and Sons song
+* monsters and men
+* naked how we come - iron and wine
 ## Favorite Meme
 Chihuaha fell into the sauce pot meme
