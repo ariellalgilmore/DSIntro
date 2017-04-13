@@ -16,7 +16,7 @@ Email: ariellalgilmore@gmail.com
 ## Language Known
 I know C++, Processing, SQL, and Java
 ### Languages/data insight you want to learn
-I want to learn more Data Vis languages and python. 
+I want to learn more Data Vis languages, python, and R. 
 ## Favorite Songs
 * Dog Days are Over
 * any mumford and Sons song
